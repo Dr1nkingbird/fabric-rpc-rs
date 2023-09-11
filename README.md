@@ -1,6 +1,9 @@
 # fabric-rpc-rs
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://raw.githubusercontent.com/youyuanwu/fabric-rpc-rs/main/LICENSE)
 
+# circle ci
+[![CircleCI Build Status](https://circleci.com/gh/cci-z6rgv/fabric-rpc-rs.svg?style=svg)](https://app.circleci.com/pipelines/circleci/C1JjCg7a7P2uM9K397eLix)
+
 RPC framework based on FabricTransport in Service Fabric. Rust support.
 See C++ counterpart in [fabric-rpc](https://github.com/youyuanwu/fabric-rpc).
 
